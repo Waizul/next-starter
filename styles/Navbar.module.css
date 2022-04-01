@@ -1,0 +1,12 @@
+.container {
+  background-color:var(--color-bg);
+  height: 50px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav {
+  display: flex;
+}
