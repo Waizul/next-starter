@@ -1,1 +1,1 @@
-Welcome to my github repository.# novart-nextjs
+Welcome to my github repository.
